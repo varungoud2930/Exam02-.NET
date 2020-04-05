@@ -11,7 +11,7 @@ namespace Pulipalpula_Exam02.DAL
   public class StoreContext : DbContext
   {
 
-    public StoreContext() : base("SchoolContext")
+    public StoreContext() : base("StoreContext")
     {
     }
 
